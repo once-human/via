@@ -1,0 +1,27 @@
+# VIA App - Cursor AI Rules
+
+# Document Relationships
+- Project overview: README.md
+- User flows: userflow.md
+- Project structure: project_structure.md
+- Technology decisions: tech_stack.md
+- Implementation tasks: checklist.md
+- Implementation status: status.md
+
+# File Relationships
+- App entry point: via/lib/main.dart
+- Theme configuration: via/lib/app/theme/app_theme.dart
+- Color definitions: via/lib/app/theme/colors.dart
+
+# Design References
+- Color palette: references/color pallete.png
+- Home screen: references/HOME FINALLLL.png
+- Onboarding screens: references/onboarding v2.png
+- Ride screens: references/ongoing ride.png, references/ongoing ride2.png
+
+# Implementation Notes
+- Follow clean architecture principles
+- Use feature-first organization for presentation layer
+- Implement BLoC pattern for complex state management
+- Use Riverpod for dependency injection
+- Follow Flutter best practices for widget composition 
